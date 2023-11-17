@@ -1,0 +1,21 @@
+def calculadora(num1,num2,operacao):
+  if operacao == 1:
+    return num1 + num2
+  
+  elif operacao == 2:
+    return num1 - num2
+  elif operacao == 3:
+    return num1 * num2
+  elif operacao == 4:
+    return num1 / num2     
+  else:
+    return "O resultado é 0"
+
+print("Calculadora")
+num1 = int(input("digite o primeiro numero: "))
+num2 = int (input("digite o segundo numero: "))
+print(" Digite 1 para adição: \n Digite 2 para subtração: \n Digite 3 para multiplicação: \n Digite 4 para divisão: ")     
+operacao = int(input()) 
+resultado = calculadora(num1,num2,operacao)
+
+print("O resultado da operação é: ",resultado)
