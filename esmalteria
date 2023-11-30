@@ -1,0 +1,3 @@
+lista_produtos=["máscaras faciais", "esmaltes", "perfume","loções","xampus", "sabonetes","delineadorres"]
+for i in range(len(lista_produtos)):
+  print(f'temos {lista_produtos[i]} á venda')
