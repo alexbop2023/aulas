@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pontos Turisticos</title>
+</head>
+<body>
+    <header>
+        <h1>Pontos Turisticos</h1>
+    </header>
+    <main>
+        <h2>Conheça os melhores pontos turisticos do mundo</h2>
+        <section>
+            <h3>Fortaleza</h3>
+            <img src="img/fortaleza.jpg" alt="Fortaleza">
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae sapiente officia debitis unde. Eveniet accusantium debitis aliquid. <br>Illo dolor laboriosam ullam vero, nulla quasi, quod rem at, adipisci laborum tenetur.</p>
+            <h3>Rio de janeiro</h3>
+            <img src="img/rj.jpg" alt="Rio de janeiro">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci sint ex voluptate alias vero, veritatis laudantium tenetur<br> voluptatum iusto cum consectetur impedit mollitia nemo natus! Nulla perspiciatis at ipsam cupiditate!</p>
+        </section>
+    </main>
+    <footer>
+        <ul>
+            <li> <a href="https://www.facebook.com">Facebook</a></li>
+            <a href="https://www.instagram.com/"><li>Instagram</li></a>
+            <a href="https://www.linkedin.com"><li>Linkedin</li></a>
+            
+          </ul>
+    </footer>
+</body>
+</html>
